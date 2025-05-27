@@ -17,5 +17,5 @@ credits: true
 
 aaaaaaaaaaaaa
 
- {% include feature/image.html objectid="demo_001" width="75" %}
+ {% include feature/image.html objectid="psychiana066" width="75" %}
 
