@@ -13,9 +13,9 @@ credits: true
 
 ## About the Collection
 
-aaaaaaaaaaaaa
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+
+aaaaaaaaaaaaa
 
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
