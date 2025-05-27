@@ -11,11 +11,12 @@ credits: true
 
 {% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
 
+ {% include feature/image.html objectid="psychiana066" width="75" %}
+
 ## About the Collection
 
 
 
 aaaaaaaaaaaaa
 
- {% include feature/image.html objectid="Psychiana066" width="75" %}
 
