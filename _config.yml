@@ -39,7 +39,7 @@ metadata-fields:
   - title
   - date
   - description
-  - image
+  - filename
 
 
 
