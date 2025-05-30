@@ -63,6 +63,10 @@ metadata-export-fields: "title,creator,date,description,subject,location,latitud
 # generate a facets list for given fields, comma delimited
 metadata-facets-fields: "subject,creator,format"
 
+image:
+  type: image
+  label: Imagen
+
 ##########
 # COMPOUND OBJECTS
 # 
